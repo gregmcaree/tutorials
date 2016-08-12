@@ -1,4 +1,4 @@
-package uk.co.gm.traditional;
+package uk.co.gm.traditional.profit;
 
 public interface QuantityOfInterest {
 

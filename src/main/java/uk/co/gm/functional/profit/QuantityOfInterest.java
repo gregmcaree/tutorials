@@ -1,4 +1,4 @@
-package uk.co.gm.functional;
+package uk.co.gm.functional.profit;
 
 public interface QuantityOfInterest {
 

@@ -1,4 +1,4 @@
-package uk.co.gm.functional;
+package uk.co.gm.traditional.profit;
 
 public class Sales extends MonthByMonthQuantity {
 

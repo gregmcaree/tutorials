@@ -1,4 +1,4 @@
-package uk.co.gm.traditional;
+package uk.co.gm.functional.profit;
 
 public class Profit implements QuantityOfInterest {
 
